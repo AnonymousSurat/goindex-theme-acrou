@@ -6,7 +6,7 @@ var authConfig = {
   // 强烈推荐使用自己的 client_id 和 client_secret
   client_id: "202264815644.apps.googleusercontent.com",
   client_secret: "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
-  refresh_token: "", // 授权 token
+  refresh_token: "1//0dz16v17ti0tsCgYIARAAGA0SNwF-L9IrvVFlmYtSbVLy8e4f_mfYI8Ry2z5_cZmDRXPVyynpRTKPMrKSro6DPwXK9bybK8X92bs", // 授权 token
   /**
    * 设置要显示的多个云端硬盘；按格式添加多个
    * [id]: 可以是 团队盘id、子文件夹id、或者"root"（代表个人盘根目录）；
@@ -22,7 +22,7 @@ var authConfig = {
    */
   roots: [
     {
-      id: "",
+      id: "1pmUrax9c3qQV3WvEDB56GAznfU6INzAQ",
       name: "TeamDrive",
       pass: "",
     },
